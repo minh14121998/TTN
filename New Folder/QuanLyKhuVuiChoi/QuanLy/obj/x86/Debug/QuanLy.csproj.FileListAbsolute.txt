@@ -1,0 +1,38 @@
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\bin\Debug\QuanLy.exe
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\bin\Debug\QuanLy.pdb
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmLogin.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmMain.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.Properties.Resources.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.exe
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.pdb
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmDichVu.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmVe.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmHoaDon.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmPhongBan.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmThongTinTK.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmNhanVien.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmTroChoi.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmKhuTroChoi.resources
+D:\BTL_C#\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmHoadon_Dichvu.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\bin\Debug\QuanLy.exe
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\bin\Debug\QuanLy.pdb
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.csprojAssemblyReference.cache
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmHoaDon.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmHoadon_Dichvu.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmPhongBan.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmThongTinTK.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmNhanVien.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmLogin.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmMain.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmTroChoi.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmKhuTroChoi.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmDichVu.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.GUI.frmVe.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.Properties.Resources.resources
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.csproj.GenerateResource.cache
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.exe
+C:\Users\QuangMinh\Desktop\TTN\New Folder\QuanLyKhuVuiChoi\QuanLy\obj\x86\Debug\QuanLy.pdb
